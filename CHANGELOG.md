@@ -180,11 +180,11 @@ ___
 ## [1.0.0][] - 2018-11-06
 Initial release.
 
-[unreleased]: https://github.com/Ci303/foo_discord_rich/compare/v2.0.3-ci303.7...HEAD
-[2.0.3-ci303.7]: https://github.com/Ci303/foo_discord_rich/compare/v2.0.3-ci303.6...v2.0.3-ci303.7
-[2.0.3-ci303.6]: https://github.com/Ci303/foo_discord_rich/compare/v2.0.3-ci303.5...v2.0.3-ci303.6
-[2.0.3-ci303.5]: https://github.com/Ci303/foo_discord_rich/compare/v2.0.3-ci303.2...v2.0.3-ci303.5
-[2.0.3-ci303.2]: https://github.com/Ci303/foo_discord_rich/releases/tag/v2.0.3-ci303.2
+[unreleased]: https://github.com/noswimmingplease/foo_discord_rich/compare/v2.0.3-ci303.7...HEAD
+[2.0.3-ci303.7]: https://github.com/noswimmingplease/foo_discord_rich/compare/v2.0.3-ci303.6...v2.0.3-ci303.7
+[2.0.3-ci303.6]: https://github.com/noswimmingplease/foo_discord_rich/compare/v2.0.3-ci303.5...v2.0.3-ci303.6
+[2.0.3-ci303.5]: https://github.com/noswimmingplease/foo_discord_rich/compare/v2.0.3-ci303.2...v2.0.3-ci303.5
+[2.0.3-ci303.2]: https://github.com/noswimmingplease/foo_discord_rich/releases/tag/v2.0.3-ci303.2
 [2.0.2]: https://github.com/TheQwertiest/foo_discord_rich/compare/v2.0.1...v2.0.2
 [2.0.1]: https://github.com/TheQwertiest/foo_discord_rich/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/TheQwertiest/foo_discord_rich/compare/v1.2.0...v2.0.0
