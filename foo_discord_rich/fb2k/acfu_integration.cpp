@@ -43,7 +43,7 @@ GUID DRPSource::get_guid()
 
 pfc::string8 DRPSource::get_owner()
 {
-    return "Ci303";
+    return "noswimmingplease";
 }
 
 pfc::string8 DRPSource::get_repo()

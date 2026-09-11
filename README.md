@@ -18,7 +18,7 @@ The maintained Discord application's Portal asset mapping is documented in the
 ## Installation
 
 Download the latest `.fb2k-component` package from
-[Releases](https://github.com/Ci303/foo_discord_rich/releases).
+[Releases](https://github.com/noswimmingplease/foo_discord_rich/releases).
 
 - Use the `x64` package for foobar2000 v2 64-bit.
 - Use the `Win32` package for foobar2000 32-bit.
@@ -32,7 +32,7 @@ Original project:
 [TheQwertiest/foo_discord_rich](https://github.com/TheQwertiest/foo_discord_rich).
 Original component implementation by TheQwertiest and contributors.
 
-This fork is maintained by [Ci303](https://github.com/Ci303) because the
+This fork is maintained by [noswimmingplease](https://github.com/noswimmingplease) because the
 original project is no longer actively maintained. The original MIT license and
 third-party notices are preserved.
 
@@ -75,6 +75,6 @@ Replace `x64` with `Win32` for the 32-bit component build. Tagged releases are
 built by GitHub Actions for both platforms.
 
 [changelog]: CHANGELOG.md
-[version_badge]: https://img.shields.io/github/release/Ci303/foo_discord_rich.svg
-[releases]: https://github.com/Ci303/foo_discord_rich/releases
+[version_badge]: https://img.shields.io/github/release/noswimmingplease/foo_discord_rich.svg
+[releases]: https://github.com/noswimmingplease/foo_discord_rich/releases
 
